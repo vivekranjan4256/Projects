@@ -1,0 +1,138 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+}
+
+h1{
+    margin:50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal ;
+    margin-top: 100px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a{
+    color: #11999E;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#EAF6F6
+}
+
+.top{
+    position:relative;
+    padding-top: 100px;;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom:300px;
+}
+
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top:50px;
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.programming-img{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.problem-img{
+    width:25%;
+    float:right;
+    margin-left:30px;
+}
+
+.program-desc{
+    clear:left;
+}
+
+.problem-desc{
+    clear:right;
+}
+
+.intro{
+    color:#40514E;
+    margin-bottom: 100px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin:50px 0 0 0;
+    padding:20px 0 20px 0;
+    line-height: 2;
+}
+
+.contact-me{
+    line-height: 2;
+}
+
+.BUTTON_COA {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: Brush Script MT;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 2px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    width: 200px;
+ }
+
+ .bottom-text{
+    color:#EAF6F6;
+ }
+
+ hr{
+     width:10%;
+     border-style: dotted none none none;
+     height: 0px;
+     border-color: grey;
+     border-width: 10px;
+ }
+
+ .middle-container{
+     margin:100px 0;
+ }
+
+ .top{
+    background-color: #EAF6F6;
+ }
